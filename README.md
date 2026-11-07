@@ -9,7 +9,7 @@ Some of my recent works include [Groove Galaxy](https://github.com/elsawakfi/gam
 I'm passionate about building secure, reliable, and intuitive technology at the intersection of software engineering, security, and human-centred design.
 
 * 🔭 **AI Safety Research:** I'm currently working on to explore adversarial jailbreak mechanisms in LLMs (specifically how poetic and linguistic framing influences safety guardrails).
-* 🌱 **Areas of Interest:** Cybersecurity, Secure AI Systems, AI Automation, Software Engineering & HCI.
+* 🌱 **Areas of Interest:** Cryptography, Cybersecurity, Secure AI Systems, AI Automation, Software Engineering & HCI.
 * 👩‍💻 **What I Do:** Build cross-platform apps, develop AI-driven automation tools, games and many more!
 
 
