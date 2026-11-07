@@ -15,4 +15,4 @@ I'm passionate about building secure, reliable, and intuitive technology at the 
 
 ### 📫 Looking forward to connect with you!
 - 💼 **LinkedIn:** https://www.linkedin.com/in/elsa-wakfi-9925fklg
-- ✉️ **Email:** xp23980@bristol.ac.uk
+- ✉️ **Email:** elsawakfi@gmail.com
